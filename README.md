@@ -7,6 +7,8 @@
 - Make simple calculations.
 - Read a random math-related quote
 
+![Calcedit](https://user-images.githubusercontent.com/71140133/155229108-4c20b7bc-1d89-407a-b581-70340ef674ff.PNG)
+
 ## Built With
 
 - HTML 
