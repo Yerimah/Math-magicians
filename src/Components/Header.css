@@ -1,42 +1,43 @@
 .nav-head {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px;
 }
 
 .menu {
-    display: flex;
-    list-style-type: none;   
+  display: flex;
+  list-style-type: none;
+  padding-right: 150px;
 }
 
 .homepage {
-    padding: 60px 32px;
+  padding: 60px 60px 0 32px;
 }
 
 .menulinks {
-    padding: 20px;
-    color: black;
+  padding: 20px;
+  color: black;
 }
 
 .menulinks:hover {
-    color: chocolate;
+  color: chocolate;
 }
 
 .menulinks:active {
-    color: white;
+  color: white;
 }
 
 .home-heading {
-    font-size: 34px;
+  font-size: 34px;
 }
 
 .home-content {
-    margin: 40px 0;
+  margin: 40px 0;
 }
 
 .quote-box {
-    padding: 60px 32px;
-    margin: 40px 0;
+  padding: 60px 52px;
+  margin: 40px 0;
+  font-size: 34px;
 }
-
