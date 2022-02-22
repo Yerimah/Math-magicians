@@ -2,11 +2,11 @@ import React from 'react';
 
 const Home = () => (
   <main className="homepage">
-    <h1 className="home-heading">Welcome to Our Page</h1>
+    <h1 className="home-heading">Welcome to Our Page!</h1>
     <p className="home-content">
       Mathematics are the result of mysterious powers which no one understands,
       and which the unconscious recognition of beauty must play an important part.
-      Out of an infinity of designs a mathematician chooses one pattern for beauty&aposs
+      Out of an infinity of designs a mathematician chooses one pattern for beauty&apos;s
       sake and pulls it down to earth.
     </p>
 
