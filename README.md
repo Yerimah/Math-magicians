@@ -9,6 +9,11 @@
 
 ![Calcedit](https://user-images.githubusercontent.com/71140133/155229108-4c20b7bc-1d89-407a-b581-70340ef674ff.PNG)
 
+## Demo
+
+[Netlify](https://math-magic-project.netlify.app/)
+[Heroku]()
+
 ## Built With
 
 - HTML 
