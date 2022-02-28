@@ -13,7 +13,7 @@
 
 [Netlify](https://math-magic-project.netlify.app/)
 
-[Heroku]()
+[Heroku](https://math-magic-project.herokuapp.com/)
 
 ## Built With
 
